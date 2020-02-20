@@ -1,4 +1,4 @@
-# Function that takes a string and a word
+# Function that takes a string and a word     
 
 ## Data Structure
 * Create a function that takes a string and a word.
