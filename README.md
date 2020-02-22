@@ -10,18 +10,8 @@
 * dictionary("tri", "triplet") ➞ true
 ```
 
-## Solutions
+## Second Solution
 
-- [First Solution]()
-  ![Imgur](https://i.imgur.com/P1EZnwF.gif)
-
-  ```javascript
-
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Used slice() method to extracts a section of a string and returns it as a new string.
-  // 3. Used includes() method o determines whether one string may be found within another string n will returning true or false.
-  // 3. At the end call the function dictionary and put something to test the output.
-  ```
 
 - [Second Solution]()
   ![Imgur](https://i.imgur.com/7DFUqTU.gif)
@@ -35,17 +25,6 @@
 
   ```
 
-- [Third Solution]()
-  ![Imgur](https://i.imgur.com/slvu0W9.gif)
-
-  ```javascript
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Inside the function , use loop that integer have small or same value of the length of string.
-  // 3. Used substring method to returns the part of the string between the start and end indexes, or to the end of the string.  
-  //4. At the end call the function dictionary and put something to test the output.
-
-  ```
-
 
 
 ## Resources
@@ -55,6 +34,11 @@
 - [String.prototype.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
 - [String.prototype.includes()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes)
 - [String.prototype.toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+
+
+
+
+
 
 
 
