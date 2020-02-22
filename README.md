@@ -12,7 +12,7 @@
 
 ## Solutions
 
-- [First Solution]()
+- [First Solution](https://github.com/AshrafTajuddin/exercise-3-ways-Function-that-takes-a-string-and-a-word/tree/solution-01)
   ![Imgur](https://i.imgur.com/P1EZnwF.gif)
 
   ```javascript
@@ -23,7 +23,7 @@
   // 3. At the end call the function dictionary and put something to test the output.
   ```
 
-- [Second Solution]()
+- [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-Function-that-takes-a-string-and-a-word/tree/solution-02)
   ![Imgur](https://i.imgur.com/7DFUqTU.gif)
 
   ```javascript
@@ -35,7 +35,7 @@
 
   ```
 
-- [Third Solution]()
+- [Third Solution](https://github.com/AshrafTajuddin/exercise-3-ways-Function-that-takes-a-string-and-a-word/tree/solution-03)
   ![Imgur](https://i.imgur.com/slvu0W9.gif)
 
   ```javascript
