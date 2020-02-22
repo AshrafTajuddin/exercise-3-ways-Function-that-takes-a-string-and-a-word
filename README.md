@@ -1,4 +1,4 @@
-# Function that takes a string and a word
+# Function that takes a string and a word     
 
 ## Data Structure
 * Create a function that takes a string and a word.
@@ -10,30 +10,7 @@
 * dictionary("tri", "triplet") ➞ true
 ```
 
-## Solutions
-
-- [First Solution]()
-  ![Imgur](https://i.imgur.com/P1EZnwF.gif)
-
-  ```javascript
-
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Used slice() method to extracts a section of a string and returns it as a new string.
-  // 3. Used includes() method o determines whether one string may be found within another string n will returning true or false.
-  // 3. At the end call the function dictionary and put something to test the output.
-  ```
-
-- [Second Solution]()
-  ![Imgur](https://i.imgur.com/7DFUqTU.gif)
-
-  ```javascript
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Used .length to check the length property of a String object contains the length of the string that counted the first character starting with 1.
-  // 3. Used .toLowerCase method to returns the calling string value converted to lower case.
-  // 4. At the end call the function dictionary and put something to test the output.
-
-
-  ```
+## Third Solution
 
 - [Third Solution]()
   ![Imgur](https://i.imgur.com/slvu0W9.gif)
