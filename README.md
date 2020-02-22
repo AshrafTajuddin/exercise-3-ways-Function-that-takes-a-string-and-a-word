@@ -13,7 +13,7 @@
 ## Second Solution
 
 
-- [Second Solution]()
+- [Second Solution](https://github.com/AshrafTajuddin/exercise-3-ways-Function-that-takes-a-string-and-a-word/blob/solution-02/solution2.js)
   ![Imgur](https://i.imgur.com/7DFUqTU.gif)
 
   ```javascript
