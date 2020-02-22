@@ -10,7 +10,7 @@
 * dictionary("tri", "triplet") ➞ true
 ```
 
-## Solutions
+## Solution
 
 - [First Solution]()
   ![Imgur](https://i.imgur.com/P1EZnwF.gif)
@@ -23,28 +23,6 @@
   // 3. At the end call the function dictionary and put something to test the output.
   ```
 
-- [Second Solution]()
-  ![Imgur](https://i.imgur.com/7DFUqTU.gif)
-
-  ```javascript
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Used .length to check the length property of a String object contains the length of the string that counted the first character starting with 1.
-  // 3. Used .toLowerCase method to returns the calling string value converted to lower case.
-  // 4. At the end call the function dictionary and put something to test the output.
-
-
-  ```
-
-- [Third Solution]()
-  ![Imgur](https://i.imgur.com/slvu0W9.gif)
-
-  ```javascript
-  // 1. Created a Function Declaration that have 2 parameters str and word.
-  // 2. Inside the function , use loop that integer have small or same value of the length of string.
-  // 3. Used substring method to returns the part of the string between the start and end indexes, or to the end of the string.  
-  //4. At the end call the function dictionary and put something to test the output.
-
-  ```
 
 
 
